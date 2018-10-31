@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/node,sass
 
+.vscode
+
 ### Node ###
 # Logs
 logs
